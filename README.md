@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 ## Some GitHub statistical reports
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=code2me&show_icons=true&count_private=true&&title_color=66fcf1&text_color=f64c72&icon_color=66fcf1&bg_color=00000000&hide=bg-color&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sahil199926&show_icons=true&count_private=true&&title_color=66fcf1&text_color=f64c72&icon_color=66fcf1&bg_color=00000000&hide=bg-color&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&layout=compact&&title_color=66fcf1&text_color=66fcf1&icon_color=45a29e&bg_color=00000000&hide=bg-color&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil199926&layout=compact&&title_color=66fcf1&text_color=66fcf1&icon_color=45a29e&bg_color=00000000&hide=bg-color&hide_border=true)
 
 ## A few projects
 
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
  </p>
  
 <p align='left'> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=code2me.code2me" alt="visitor badge"/>    
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahil199926.sahil199926" alt="visitor badge"/>    
 </p>
