@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sahil199926&show_icons=true&count_private=true&&title_color=66fcf1&text_color=f64c72&icon_color=66fcf1&bg_color=00000000&hide=bg-color&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil199926&layout=compact&&title_color=66fcf1&text_color=66fcf1&icon_color=45a29e&bg_color=00000000&hide=bg-color&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil199926&layout=compact&title_color=66fcf1&text_color=66fcf1&icon_color=45a29e&bg_color=00000000&hide=bg-color&hide_border=true)
 
 ## A few projects
 
