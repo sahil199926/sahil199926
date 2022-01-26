@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil199926&title_color=66fcf1&text_color=66fcf1&icon_color=45a29e&bg_color=00000000&hide=bg-color&hide_border=true)
 
-## A few projects
-
-- 
-
-
 ## Find me around the web
 
 </p>
