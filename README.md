@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile app (just like Discord but butter)...
+- 🔭 I’m currently working on A free platform for interviewing practices
 - 🌱 I’m currently learning ... how to use AI + softwere development to yield a High value Product
 - 💬 Ask me about  anything 
 - 📫 How to reach me: sahil199926@gmail.com 
