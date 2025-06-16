@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
   </a>&nbsp;&nbsp;
   
-  <a target="=_blank" href="https://www.linkedin.com/in/sahil-jaryal/">
-    <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+  <a target="__blank" href="https://www.linkedin.com/in/sahil-jaryal/">
+    <img height="30" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png?20210220164014)">
   </a>
  </p>
  
